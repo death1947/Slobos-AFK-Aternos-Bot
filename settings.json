@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "NinteAchan",
+    "username": "Shashi",
     "password": "",
     "type": "offline"
   },
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Eda shoune ni enth pottana",
+        "Sooryanarayana!!",
+        "fahh me daddy!"
       ]
     },
     "chat-log": true,
@@ -44,7 +44,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
